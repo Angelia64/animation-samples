@@ -1,4 +1,4 @@
-# Duplicates default main branch to the old master branch
+# Duplicates default main branch.github/workflows/copy-branch.yml to the old master branch
 
 name: Duplicates main to old master branch
 
